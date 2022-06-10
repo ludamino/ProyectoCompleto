@@ -1,0 +1,8 @@
+DB_DATABASE=proye324_ludamino_bd_good
+DB_USERNAME=proye324_yael_lu
+DB_PASSWORD=TjKx;Cv$n,q)
+
+
+DB_DATABASE=bd_ludamino1
+DB_USERNAME=root
+DB_PASSWORD=
